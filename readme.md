@@ -61,26 +61,6 @@ Just double-click the `index.html` file or use Live Server in VS Code.
 
 ---
 
-##  How to Use
-
-1. Clone the repository.
-2. Open any project folder and run `index.html` in your browser.
-3. Some projects may require an API key (like the Weather App) – check the respective project folder for details.
-
----
-
-##  .gitignore Setup
-To prevent unnecessary files from being pushed to GitHub, add the following to your `.gitignore` file:
-```
-# Node modules
-node_modules/
-
-# Environment files
-.env
-```
-
----
-
 ##  Why I Made This Repo
 I built these projects while learning JavaScript to get hands-on practice. Instead of just watching tutorials, I wanted to build real things and improve my coding skills. Sharing them here so I can track my progress and maybe help others along the way!
 
