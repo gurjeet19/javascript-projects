@@ -1,0 +1,10 @@
+# Ignore node_modules inside Weather App
+01_Weather_App/node_modules/
+
+# Ignore environment file
+01_Weather_App/.env
+
+# Ignore logs
+01_Weather_App/logs/
+*.log
+
