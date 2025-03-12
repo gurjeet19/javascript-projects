@@ -27,7 +27,7 @@ Here are some of the projects included in this repo:
 
 ### 1️ Clone the repository
 ```sh
-git clone https://github.com/gurjeet19/Javascript-Projects
+git clone https://github.com/gurjeet19/Javascript-Projects.git
 ```
 
 ### 2️ Navigate to the project folder
