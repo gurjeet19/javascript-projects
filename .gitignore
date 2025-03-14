@@ -1,10 +1,14 @@
 # Ignore node_modules inside Weather App
 01_Weather_App/node_modules/
+28_Image_Search/node_modules/
 
 # Ignore environment file
 01_Weather_App/.env
+28_Image_Search/.env
 
 # Ignore logs
 01_Weather_App/logs/
+*.log
+28_Image_Search/logs/
 *.log
 
