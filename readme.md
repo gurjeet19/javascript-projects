@@ -65,3 +65,6 @@ Just double-click the `index.html` file or use Live Server in VS Code.
 I built these projects while learning JavaScript to get hands-on practice. Instead of just watching tutorials, I wanted to build real things and improve my coding skills. Sharing them here so I can track my progress and maybe help others along the way!
 
 ---
+
+##  This is Just the Beginning!
+This is my first GitHub repository. I’ll keep adding more and more projects as I continue learning JavaScript and web development. Excited to build and share even more in the future! 
