@@ -63,3 +63,6 @@ Just double-click the `index.html` file or use Live Server in VS Code.
 
 ##  Why I Made This Repo
 I built these projects while learning JavaScript to get hands-on practice. Instead of just watching tutorials, I wanted to build real things and improve my coding skills. Sharing them here so I can track my progress and maybe help others along the way!
+
+
+...
